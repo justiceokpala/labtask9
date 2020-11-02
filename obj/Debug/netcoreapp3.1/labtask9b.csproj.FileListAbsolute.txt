@@ -1,0 +1,11 @@
+C:\CodebitsAcademy\c#\do\labtask9b\bin\Debug\netcoreapp3.1\labtask9b.exe
+C:\CodebitsAcademy\c#\do\labtask9b\bin\Debug\netcoreapp3.1\labtask9b.deps.json
+C:\CodebitsAcademy\c#\do\labtask9b\bin\Debug\netcoreapp3.1\labtask9b.runtimeconfig.json
+C:\CodebitsAcademy\c#\do\labtask9b\bin\Debug\netcoreapp3.1\labtask9b.runtimeconfig.dev.json
+C:\CodebitsAcademy\c#\do\labtask9b\bin\Debug\netcoreapp3.1\labtask9b.dll
+C:\CodebitsAcademy\c#\do\labtask9b\bin\Debug\netcoreapp3.1\labtask9b.pdb
+C:\CodebitsAcademy\c#\do\labtask9b\obj\Debug\netcoreapp3.1\labtask9b.csprojAssemblyReference.cache
+C:\CodebitsAcademy\c#\do\labtask9b\obj\Debug\netcoreapp3.1\labtask9b.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\c#\do\labtask9b\obj\Debug\netcoreapp3.1\labtask9b.AssemblyInfo.cs
+C:\CodebitsAcademy\c#\do\labtask9b\obj\Debug\netcoreapp3.1\labtask9b.dll
+C:\CodebitsAcademy\c#\do\labtask9b\obj\Debug\netcoreapp3.1\labtask9b.pdb
